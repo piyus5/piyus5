@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Shukla</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Junior Backend developer from India</h3>
 
 - 🌱 I’m currently learning **Java, SQL, JavaScript**
 
