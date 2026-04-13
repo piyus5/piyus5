@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **piyusshukla59@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1D5QoRX0nhhsT8ZXVqb_jZpOmsX2BLSGp85ikVeKTm6U/edit?usp=sharing](https://docs.google.com/document/d/1D5QoRX0nhhsT8ZXVqb_jZpOmsX2BLSGp85ikVeKTm6U/edit?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1A0fPz4omX1lZkCqd12R7RGfy7otGQVOT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
